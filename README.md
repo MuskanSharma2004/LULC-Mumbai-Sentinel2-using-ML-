@@ -1,3 +1,4 @@
+ACCESS TO ENTIRE SCRIPT VIA LINK https://code.earthengine.google.com/c77e077c36b098fc3cd80c8041f897c5
 # LULC-Mumbai-Sentinel2-using-ML-
 LULC classification of Mumbai using Sentinel-2 data and Random Forest in Google Earth Engine.
 # 🌍 Land Use Land Cover (LULC) Classification of Mumbai using Sentinel-2 & Google Earth Engine
@@ -57,6 +58,7 @@ Bands used for classification:
 * Applied trained classifier on full Sentinel-2 image
 * Generated final LULC classified map
 
+**_> Note: This script uses a manually imported Mumbai boundary and manually digitized training samples in Google Earth Engine. If you want to run it in your own account, replace these layers with your own study area and training polygons.**_
 
 ## 🗂️ Land Cover Classes
 | Class | Description  |
